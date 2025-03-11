@@ -1,3 +1,10 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+body,
+section {
+  margin: 0;
+  box-sizing: border-box;
+  background-color:#eeeeee;
+  font-family: var(--bodyFont);
+  color: var(--darkgray);
+}
