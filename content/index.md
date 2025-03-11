@@ -1,5 +1,6 @@
 ---
 title: Kinley's Garden
+publish: true
 ---
 
 

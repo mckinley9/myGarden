@@ -1,6 +1,6 @@
 ---
 title: Resources for Broke Scholars
-draft: 
+publish: true
 tags:
   - ToolsandResources
 ---
