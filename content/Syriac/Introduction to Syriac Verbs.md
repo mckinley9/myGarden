@@ -9,10 +9,10 @@ tags:
 Verbs in Classical Syriac are formed by applying different vowels, prefixes, and/or suffixes to the **verbal root.**
 
 Most often, a root consists of 3 "radicals"(consonants).[^2] 
+### Ex: The root for ܟܬܒ, 'he wrote'
+![[Pasted image 20250312144501.png]]
 
-### Ex: The root for ܩܛܠܠ, 'he killed'
-
-Verbal inflections can tell us the 1) conjugation, 2) tense, and 3) person, number, and gender of a given verb. 
+Verbal inflections can tell us the 1) *conjugation*, 2) *tense*, and 3) *person, number, and gender* of a given verb. 
 
 ## Conjugations
 There are six main conjugations in Syriac, which are based off of the verb ܦܥܠܠ, which means 'he labours.' The six forms are as follows: 
